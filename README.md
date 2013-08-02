@@ -1,7 +1,7 @@
-EMBOCON_Interfaces
+EMBOCON Interfaces
 ==================
 
-The set of EMBOCON standard interfaces
+> The set of EMBOCON standard interfaces
 
 The basis for the interaction between the different modules of the online part of the software platform
 is dened by a set of standardized interfaces. These interfaces specify sets of callable functions for the
