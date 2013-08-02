@@ -6,9 +6,9 @@ Example of linking EMBOCON supervisor interface with FPGAs
 ## Requirements for simulation
 
 * File list:
-	- ```FPGAcontroller_library.c```: 
+	- ```FPGAcontroller_library.c```: Functions file library
 
 ## Simulation instructions
 
 1. FPGAcontroller_library.c contains function makeOptStep to add at optimizer.c is in 
-2. Add FPGAcontroller_library.c to mexfiles.m to compile FPGAcontroller_library
+2. Add ```FPGAcontroller_library.c``` to ```mexfiles.m``` to compile ```FPGAcontroller_library```
