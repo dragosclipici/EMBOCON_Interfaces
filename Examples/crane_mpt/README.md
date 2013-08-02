@@ -1,7 +1,7 @@
 Example of linking EMBOCON supervisor interface with MPT generated code
 =======================================================================
 
-*Author*: Martin Herceg, mailto:herceg@control.ee.ethz.ch, Automatic Control Laboratory, ETH Zurich 2012.
+*Author*: Martin Herceg, herceg@control.ee.ethz.ch, Automatic Control Laboratory, ETH Zurich 2012.
 
 ## Requirements for simulation
 
