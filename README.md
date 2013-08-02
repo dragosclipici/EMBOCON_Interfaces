@@ -54,6 +54,5 @@ When an array is passed into a function as an input argument, the function may n
 memory of the array remains available beyond the function call.
 
 The source code of the interfaces and empty library implementations are released as open-source at the
-end of the project under the MIT license using the GitHub repository system. The respository location
-of the interfaces is the following: https://github.com/EMBOCONcs/EMBOCON Interfaces.git. All
-libraries are contained in single projects for the Eclipse IDE.
+end of the project under the MIT license using the GitHub [repository](https://github.com/EMBOCONcs/EMBOCON_Interfaces).
+All libraries are compiled  single projects for the Eclipse IDE.
