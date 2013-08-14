@@ -1,0 +1,1 @@
+mex SGems_SFunc.c SGems.c observer.c optimizer.c myMPC.c -I../../../../../supervisor/Interfaces/ -DUSEMEXPRINTS

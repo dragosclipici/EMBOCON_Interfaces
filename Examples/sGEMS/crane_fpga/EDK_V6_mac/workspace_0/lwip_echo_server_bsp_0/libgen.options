@@ -1,0 +1,3 @@
+PROCESSOR=microblaze_0
+REPOSITORIES=-lp C:/Users/asuardi/UK_Imperial/Research/EMBOCON/Crane_FPGA/IPcontroller
+HWSPEC=../tmp_hw_platform/system.xml
