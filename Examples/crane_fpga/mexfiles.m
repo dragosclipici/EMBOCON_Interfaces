@@ -1,1 +1,0 @@
-mex SGems_SFunc.c SGems.c observer.c FPGAcontroller_library.c optimizer.c  -I../../../supervisor/Interfaces/ -DUSEMEXPRINTS

@@ -1,1 +1,0 @@
-xst -intstyle ise -ifn "C:/Users/asuardi/UK_Imperial/Research/EMBOCON/tmp_software/examples/simulink/crane_FPGA/IPcontroller/MyProcessorIPLib/pcores/controller_v1_00_a/devl/projnav/controller.xst" -ofn "C:/Users/asuardi/UK_Imperial/Research/EMBOCON/tmp_software/examples/simulink/crane_FPGA/IPcontroller/MyProcessorIPLib/pcores/controller_v1_00_a/devl/projnav/controller.syr" 
